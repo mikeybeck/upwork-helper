@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Upwork helper",
   "version": "1.0",
-  "permissions": ["activeTab", "webRequest"],
+  "permissions": ["activeTab", "webRequest", "storage"],
   "host_permissions": [
     "*://*.upwork.com/*"
   ],
